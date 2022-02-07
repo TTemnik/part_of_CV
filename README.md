@@ -9,7 +9,7 @@
   * Bug Report 
 * **API** (Postman)
 * **SQL**
-  * [SQL Academy](./part_of_CV/Learning/SQL/SQL Academy/)
+  * [SQL Academy](part_of_CV/Learning/SQL/SQL Academy/)
   * [SQL Ex]()
   * [Stepik SQL Course]()
 
