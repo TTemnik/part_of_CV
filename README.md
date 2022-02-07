@@ -7,7 +7,9 @@
   * Test Case
   * Test Suite
   * Bug Report 
-* **API** (Postman)
+* **API** 
+  * Postman
+  * SoapUI 
 * **SQL**
   * [SQL Academy](https://github.com/TTemnik/part_of_CV/tree/main/Learning/SQL/SQL%20Academy)
   * [SQL Ex]()
