@@ -1,8 +1,8 @@
-# This is my work with SQL Academy:
+# This is my work with SQL Academy (most interesting tasks):
 
-* Task #13
-![Task #13](https://github.com/TTemnik/part_of_CV/blob/main/Learning/SQL/SQL%20Academy/Task%20%2313.png)
-* Task #14
-![Task #14](https://github.com/TTemnik/part_of_CV/blob/main/Learning/SQL/SQL%20Academy/Task%20%2314.png)
 * Task #6
 ![Task #6](https://github.com/TTemnik/part_of_CV/blob/main/Learning/SQL/SQL%20Academy/Task%20%236.png)
+* Task #14
+![Task #14](https://github.com/TTemnik/part_of_CV/blob/main/Learning/SQL/SQL%20Academy/Task%20%2314.png)
+* Task #19
+![Task #19](https://github.com/TTemnik/part_of_CV/blob/main/Learning/SQL/SQL%20Academy/Task%20%2313.png)
