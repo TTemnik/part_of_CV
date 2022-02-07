@@ -12,7 +12,7 @@
   * SoapUI 
 * **SQL**
   * [SQL Academy](https://github.com/TTemnik/part_of_CV/tree/main/Learning/SQL/SQL%20Academy)
-  * [SQL Ex]()
+  * [SQL Ex](https://github.com/TTemnik/part_of_CV/tree/main/Learning/SQL/SQL%20Ex)
   * [Stepik SQL Course]()
 
 
