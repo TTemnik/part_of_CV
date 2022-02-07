@@ -1,7 +1,7 @@
 ## GitHub as a Part of CV.
 
 ### Contents:
-* **[Test Documentation]**(https://github.com/TTemnik/part_of_CV/tree/main/QA/Test-Documentation)
+* [**Test Documentation**](https://github.com/TTemnik/part_of_CV/tree/main/QA/Test-Documentation)
   * [Test Plan](https://github.com/TTemnik/part_of_CV/tree/main/QA/Test-Documentation/Test%20Plans)
   * [Check List](https://github.com/TTemnik/part_of_CV/tree/main/QA/Test-Documentation/Check%20Lists)
   * [Test Case](https://github.com/TTemnik/part_of_CV/tree/main/QA/Test-Documentation/Test%20Cases)
@@ -13,7 +13,7 @@
 * **SQL**
   * [SQL Academy](https://github.com/TTemnik/part_of_CV/tree/main/QA/SQL/SQL%20Academy)
   * [SQL Ex](https://github.com/TTemnik/part_of_CV/tree/main/QA/SQL/SQL%20Ex)
-  * [Stepik SQL Course](https://github.com/TTemnik/part_of_CV/tree/main/QA/SQL/SQL Course on Stepik)
+  * [Stepik SQL Course](https://github.com/TTemnik/part_of_CV/tree/main/QA/SQL/SQL%20Course%20Stepik)
 
 
 
