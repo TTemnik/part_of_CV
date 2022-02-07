@@ -1,5 +1,5 @@
-## GitHub as a Part of CV. -- 
-#NOT FINISHED!!!
+## GitHub as a Part of CV.
+# NOT FINISHED!!!
 
 ### Contents:
 * [**Test Documentation**](https://github.com/TTemnik/part_of_CV/tree/main/QA/Test-Documentation)
