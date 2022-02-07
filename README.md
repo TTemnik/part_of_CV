@@ -7,10 +7,10 @@
   * [Test Case](https://github.com/TTemnik/part_of_CV/tree/main/QA/Test-Documentation/Test%20Cases)
   * [Test Suite](https://github.com/TTemnik/part_of_CV/tree/main/QA/Test-Documentation/Test%20Suites)
   * [Bug Report](https://github.com/TTemnik/part_of_CV/tree/main/QA/Test-Documentation/Bug%20Reports)
-* **API** 
-  * Postman
-  * SoapUI 
-* **SQL**
+* [**API**](https://github.com/TTemnik/part_of_CV/tree/main/QA/API)
+  * [Postman](https://github.com/TTemnik/part_of_CV/tree/main/QA/API/Postman)
+  * [SoapUI](https://github.com/TTemnik/part_of_CV/tree/main/QA/API/SoapUI)
+* [**SQL**](https://github.com/TTemnik/part_of_CV/tree/main/QA/SQL)
   * [SQL Academy](https://github.com/TTemnik/part_of_CV/tree/main/QA/SQL/SQL%20Academy)
   * [SQL Ex](https://github.com/TTemnik/part_of_CV/tree/main/QA/SQL/SQL%20Ex)
   * [Stepik SQL Course](https://github.com/TTemnik/part_of_CV/tree/main/QA/SQL/SQL%20Course%20Stepik)
