@@ -19,7 +19,6 @@
   * [SQL Academy](https://github.com/TTemnik/part_of_CV/tree/main/QA/SQL/SQL%20Academy)
   * [SQL Ex](https://github.com/TTemnik/part_of_CV/tree/main/QA/SQL/SQL%20Ex)
   * [Stepik SQL Course](https://github.com/TTemnik/part_of_CV/tree/main/QA/SQL/SQL%20Course%20Stepik)
->>>>>>> a244f08e98a008135b08d2fe054e0ba16c3418e6
 
 
 * [**API**](https://github.com/TTemnik/part_of_CV/tree/main/QA/API)
