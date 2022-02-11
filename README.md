@@ -3,19 +3,18 @@
 
 ### Contents:
 * [**Test Documentation**](https://github.com/TTemnik/part_of_CV/tree/main/QA/Test-Documentation)
-<<<<<<< HEAD
-=======
   * [Test Plan](https://github.com/TTemnik/part_of_CV/tree/main/QA/Test-Documentation/Test%20Plans)
->>>>>>> a244f08e98a008135b08d2fe054e0ba16c3418e6
   * [Check List](https://github.com/TTemnik/part_of_CV/tree/main/QA/Test-Documentation/Check%20Lists)
   * [Test Case](https://github.com/TTemnik/part_of_CV/tree/main/QA/Test-Documentation/Test%20Cases)
   * [Test Suite](https://github.com/TTemnik/part_of_CV/tree/main/QA/Test-Documentation/Test%20Suites)
   * [Bug Report](https://github.com/TTemnik/part_of_CV/tree/main/QA/Test-Documentation/Bug%20Reports)
-<<<<<<< HEAD
-=======
+  
+  
 * [**API**](https://github.com/TTemnik/part_of_CV/tree/main/QA/API)
   * [Postman](https://github.com/TTemnik/part_of_CV/tree/main/QA/API/Postman)
   * [SoapUI](https://github.com/TTemnik/part_of_CV/tree/main/QA/API/SoapUI)
+
+
 * [**SQL**](https://github.com/TTemnik/part_of_CV/tree/main/QA/SQL)
   * [SQL Academy](https://github.com/TTemnik/part_of_CV/tree/main/QA/SQL/SQL%20Academy)
   * [SQL Ex](https://github.com/TTemnik/part_of_CV/tree/main/QA/SQL/SQL%20Ex)
