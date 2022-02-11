@@ -1,23 +1,23 @@
 ## GitHub as a Part of CV.
+## NOT FINISHED!!!
 
 ### Contents:
-* **Test Documentation**
-  * Test Plan
-  * Check List 
-  * Test Case
-  * Test Suite
-  * Bug Report 
-* **API** 
-  * Postman
-  * SoapUI 
-* **SQL**
-  * [SQL Academy](https://github.com/TTemnik/part_of_CV/tree/main/Learning/SQL/SQL%20Academy)
-  * [SQL Ex](https://github.com/TTemnik/part_of_CV/tree/main/Learning/SQL/SQL%20Ex)
-  * [Stepik SQL Course]()
+* [**Test Documentation**](https://github.com/TTemnik/part_of_CV/tree/main/QA/Test-Documentation)
+  * [Check List](https://github.com/TTemnik/part_of_CV/tree/main/QA/Test-Documentation/Check%20Lists)
+  * [Test Case](https://github.com/TTemnik/part_of_CV/tree/main/QA/Test-Documentation/Test%20Cases)
+  * [Test Suite](https://github.com/TTemnik/part_of_CV/tree/main/QA/Test-Documentation/Test%20Suites)
+  * [Bug Report](https://github.com/TTemnik/part_of_CV/tree/main/QA/Test-Documentation/Bug%20Reports)
 
 
+* [**API**](https://github.com/TTemnik/part_of_CV/tree/main/QA/API)
+  * [REST (Postman)](https://github.com/TTemnik/part_of_CV/tree/main/QA/API/Postman)
+  * [SOAP (SoapUI)](https://github.com/TTemnik/part_of_CV/tree/main/QA/API/SoapUI)
 
 
-h1 Сделай красившее Intro к своему GitHub, дабы всякий люд сюда входящий не рыскал по твоим бесконечным папкам.
-Сделай удобный путеводитель с активными ссылками.
-Разбиение/Структуру можешь взять из своего CV.
+* [**SQL**](https://github.com/TTemnik/part_of_CV/tree/main/QA/SQL)
+  * [SQL Academy](https://github.com/TTemnik/part_of_CV/tree/main/QA/SQL/SQL%20Academy)
+  * [SQL Course [Stepik]](https://github.com/TTemnik/part_of_CV/tree/main/QA/SQL/SQL%20Course%20Stepik)
+
+[//]: # (* [**WEB**]&#40;https://github.com/TTemnik/part_of_CV/tree/main/QA/SQL&#41;)
+[//]: # (  * [Fiddler]&#40;https://github.com/TTemnik/part_of_CV/tree/main/QA/SQL/SQL%20Academy&#41;)
+[//]: # (  * [DevTools]&#40;https://github.com/TTemnik/part_of_CV/tree/main/QA/SQL/SQL%20Course%20Stepik&#41;)
