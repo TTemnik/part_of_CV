@@ -18,7 +18,7 @@
 
 * [**SQL**](https://github.com/TTemnik/part_of_CV/tree/main/QA/SQL)
   * [SQL Academy](https://github.com/TTemnik/part_of_CV/tree/main/QA/SQL/SQL%20Academy)
-  * [SQL Course [Stepik]](https://github.com/TTemnik/part_of_CV/tree/main/QA/SQL/SQL%20Course%20Stepik)
+  * [SQL Course [Stepik]](https://github.com/TTemnik/part_of_CV/tree/main/QA/SQL/SQL%20Course%20on%20Stepik)
 
 [//]: # (* [**WEB**]&#40;https://github.com/TTemnik/part_of_CV/tree/main/QA/SQL&#41;)
 [//]: # (  * [Fiddler]&#40;https://github.com/TTemnik/part_of_CV/tree/main/QA/SQL/SQL%20Academy&#41;)
