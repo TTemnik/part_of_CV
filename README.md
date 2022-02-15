@@ -3,7 +3,6 @@
 
 ### Contents:
 * [**Test Documentation**](https://github.com/TTemnik/part_of_CV/tree/main/QA/Test-Documentation)
-
   * [Test Plan](https://github.com/TTemnik/part_of_CV/tree/main/QA/Test-Documentation/Test%20Plans)
   * [Check List](https://github.com/TTemnik/part_of_CV/tree/main/QA/Test-Documentation/Check%20Lists)
   * [Test Case](https://github.com/TTemnik/part_of_CV/tree/main/QA/Test-Documentation/Test%20Cases)
